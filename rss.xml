@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wealth Garden Wizard]]></title>
+        <description><![CDATA[Wealth Garden Wizard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 15:24:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed50ec06-a5f3-4625-b883-8131a9882126.jpg">]]></description>
+            <link>undefined60c758c9-7c3b-4b98-b899-39552457bbdc/index.html</link>
+            <guid isPermaLink="false">60c758c9-7c3b-4b98-b899-39552457bbdc</guid>
+            <pubDate>Sun, 20 Dec 2015 15:24:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
